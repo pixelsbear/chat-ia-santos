@@ -29,7 +29,7 @@ Node.js, Express, groq-sdk, dotenv, HTML/CSS/JS puro
 - Desafio 2: foi feito a adição do balão de pensando enquanto a resposta é formulada pelo Chat. Está no arquivo main.js.
 - Desafio 3: foi feito a adição de prompt para um chat que seja um assistente com função definida. Está no arquivo index.js na pasta raiz do projeto.
 
-## Arquitetura
+## Arquitetura e Relatório
 
 Descreva em um parágrafo por que a chamada à Groq acontece no servidor
 e não no navegador.
