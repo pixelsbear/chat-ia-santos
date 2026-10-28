@@ -16,7 +16,7 @@ function getGroqChatCompletion(message) {
         messages: [
             {
                 role: "system",
-                content: "Não responda nada fora do contexto de ciência da computação e programação."
+                content: "Você é um tutor de Programação Web. O teu objetivo é analisar código em JavaScript, HTML e CSS fornecido pelo usuário, apontar falhas de lógica e sugerir melhorias de performance. Seja direto, conciso, técnico e explica o motivo de cada correção e como ela melhora o código e é necessária."
             },
             {
                 role: "user",
